@@ -1,1 +1,3 @@
 # 100daysofdevops
+
+README updated
